@@ -6,10 +6,11 @@ Create new SSH keys to allow access to Git and other sites by copying the conten
 * Create SSH keys: ```ssh-keygen```
 
 ## Python
-Assuming that Python3 is already installed:
+Assuming Python3 is already installed:
 * Install Python virtual environment: ```apt install python3.10-venv```
 * Create a virtual environment: ```python3 -m venv ~/venv```
 * Start the virtual environment: ```source ~/venv/bin/activate```
+* Install pyinstaller: ```pip install -U pyinstaller```
 
 ## Visual Studio Code
 Install Visual Studio Code then add the following extensions to Code
