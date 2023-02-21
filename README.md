@@ -19,10 +19,3 @@ Install Visual Studio Code then add the following extensions to Code
 * Intellicode
 * Auto Close Tag
 * Code Spell Checker
-
-
-# Samples
-Various sample projects
-## Python Samples
-Samples include:
-xxxx
