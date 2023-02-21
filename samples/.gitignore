@@ -2,3 +2,13 @@
 build/
 dist/
 *.spec
+*.pyc
+
+# VS Code
+.vscode/
+
+# Shared objects
+*.so
+
+# Temporary files
+*~
