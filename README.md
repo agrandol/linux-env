@@ -10,3 +10,19 @@ Assuming that Python3 is already installed:
 * Install Python virtual environment: ```apt install python3.10-venv```
 * Create a virtual environment: ```python3 -m venv ~/venv```
 * Start the virtual environment: ```source ~/venv/bin/activate```
+
+## Visual Studio Code
+Install Visual Studio Code then add the following extensions to Code
+* GitLens
+* Python
+* VSCode-Icons
+* Intellicode
+* Auto Close Tag
+* Code Spell Checker
+
+
+# Samples
+Various sample projects
+## Python Samples
+Samples include:
+xxxx
