@@ -12,6 +12,20 @@ Assuming Python3 is already installed:
 * Start the virtual environment: ```source ~/venv/bin/activate```
 * Install pyinstaller: ```pip install -U pyinstaller```
 
+## Node.js and NPM
+Download and install Node.js and NPM as follows:
+* Download the latest LTS version from https://nodejs.org/en/  (node-v18.14.2-linux-x64.tar.xz)
+* Unzip and install in /usr/local
+```
+   cd /usr/local
+   sudo tar --strip-components 1 -xvf /home/<user>/Downloads/node-v18.14.2-linux-x64.tar.xz
+```
+* Verify installs
+```
+   node --version
+   npm --version
+```
+
 ## Visual Studio Code
 Install Visual Studio Code then add the following extensions to Code
 * GitLens
