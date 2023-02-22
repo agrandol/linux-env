@@ -13,7 +13,6 @@ Assuming Python3 is already installed:
 * Install pyinstaller: ```pip install -U pyinstaller```
 
 ## Node.js and NPM
-Download and install Node.js and NPM as follows:
 * Download the latest LTS version from https://nodejs.org/en/  (node-v18.14.2-linux-x64.tar.xz)
 * Unzip and install in /usr/local
 ```
@@ -25,6 +24,12 @@ Download and install Node.js and NPM as follows:
    node --version
    npm --version
 ```
+
+## Angular CLI
+* Install
+```sudo npm install -g @angular/cli```
+* Verify version
+```ng version```
 
 ## Visual Studio Code
 Install Visual Studio Code then add the following extensions to Code
